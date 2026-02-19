@@ -13,5 +13,7 @@ document.getElementById("btn_input_update")
 
         const name = document.getElementById("name");
         name.innerText = inputValue;
+
+        inputText.value = ''
   
     })
