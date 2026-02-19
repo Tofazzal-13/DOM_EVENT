@@ -26,5 +26,13 @@ function makePurple(){
     document.body.style.backgroundColor = "purple"
 }
 
+// addEventListener
+document.getElementById("btn_make_green").
+addEventListener("click",function
+     makeGreen(){
+        document.body.style.backgroundColor = "lightgreen"
+     }
+)
+
 
 
